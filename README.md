@@ -3,14 +3,23 @@ Our new Relaiton List and their
 ORG（组织相关）:
 
 country
+
 country of citizenship
+
 head of government
+
 head of state
+
 capital
+
 position held
+
 member of sports team
+
 member of political party
+
 employer
+
 founded by
 league
 publisher
